@@ -1,4 +1,29 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+
+    @import "jekyll-theme-minimal";
+
+    .github-button {
+        display: inline-flex;
+        align-items: center;
+        padding: 8px 16px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #333;
+        border: 1px solid #333;
+        border-radius: 4px;
+        background-color: transparent;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+    }
+
+    .github-button:hover {
+        background-color: #f5f5f5;
+    }
+
+    .github-icon {
+        margin-right: 8px;
+        font-size: 18px;
+    }
+
