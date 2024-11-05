@@ -7,5 +7,12 @@ permalink: docs/Candidatura/verbale_interno/verbale_24-10-25.html
 
 <h2>Verbale interno 25/10/2024</h2>
 
-<h1>Downloads</h1>
-<a href="https://github.com/Code7Crusaders/docs/blob/main/Candidatura/verbali_interni/verbale_24-10-25_v1.0.pdf">Download PDF</a>
+Si è stabilita una stima iniziale dei costi del progetto e il carico di lavoro individuale e per ruolo, adattando le ore verso i ruoli di progettazione piuttosto che di sviluppo. Sono stati identificati rischi come il lavoro asincrono, decidendo misure di mitigazione. La pianificazione oraria sarà rivista secondo le esigenze del progetto, con una nuova riunione fissata per il 1° novembre 2024.
+
+<h2>Download</h2>
+
+<a href="https://github.com/Code7Crusaders/docs/blob/main/Candidatura/verbali_interni/verbale_24-10-25_v1.0.pdf" class="github-button" download>
+    <span class="github-icon">🐙</span> 
+    Scarica PDF da GitHub
+</a>
+
