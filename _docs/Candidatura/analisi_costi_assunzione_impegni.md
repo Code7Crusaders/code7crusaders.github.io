@@ -10,7 +10,7 @@ Il documento definisce gli impegni e i costi per il progetto *Assistente Virtual
 
 <h2>Download</h2>
 
-<a href="https://github.com/Code7Crusaders/docs/blob/main/Candidatura/analisi_costi_assunzione_impegni_v1.0.pdf" class="github-button" download>
+<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/1_Candidatura/analisi_costi_assunzione_impegni_v1.0.pdf" class="github-button" download>
     <span class="github-icon">🐙</span> 
     Scarica PDF da GitHub
 </a>

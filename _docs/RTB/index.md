@@ -1,0 +1,29 @@
+---
+layout: default
+title: Candidatura
+permalink: docs/RTB/index.html
+---
+
+<h1>Candidatura</h1>
+
+Questi sono i documenti redatti durante il periodo di candidatura per aggiudicarsi l'appalto.
+
+<h2>Documentazione Interna</h2>
+<ul>
+    <li><a href="documentazione_interna/glossario.html">Glossario</a></li>
+</ul>
+<h2>Documentazione Esterna</h2>
+<ul>
+
+</ul>
+<h3>Verbali Interni</h3>
+<ul>
+    <!-- <li><a href="verbali_interni/verbale_24-11-04_v0.1.html">Verbale 24-11-04 v0.1</a></li>  aspetta versione 1-->
+</ul>
+
+<h3>Verbali Esterni</h3>
+<ul>
+
+</ul>
+
+

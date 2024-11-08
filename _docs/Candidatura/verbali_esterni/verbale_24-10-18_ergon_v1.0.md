@@ -9,7 +9,7 @@ L'incontro ha chiarito che l’uso di .NET MAUI è opzionale, e l'azienda fornir
 
 <h2>Download</h2>
 
-<a href="https://github.com/Code7Crusaders/docs/blob/main/Candidatura/verbali_esterni/verbale_24-10-18_ergon_v1.0.pdf" class="github-button" download>
+<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/1_Candidatura/verbali_esterni/verbale_24-10-18_ergon_v1.0.pdf" class="github-button" download>
     <span class="github-icon">🐙</span> 
     Scarica PDF da GitHub
 </a>

@@ -27,3 +27,17 @@ Questi sono i documenti redatti durante il periodo di candidatura per aggiudicar
     <li><a href="verbali_esterni/verbale_24-10-18_ergon.html">Verbale Ergon</a></li>
     <li><a href="verbali_esterni/verbale_24-10-17_azzurrodigitale.html">Verbale AzzurroDigitale</a></li>
 </ul>
+
+        
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 

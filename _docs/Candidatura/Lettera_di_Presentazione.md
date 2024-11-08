@@ -11,7 +11,10 @@ Il team *Code7Crusaders* si propone ufficialmente per sviluppare il capitolato "
 
 <h2>Download</h2>
 
-<a href="https://github.com/Code7Crusaders/docs/blob/51a9f0d4810e2248bc2fd3a3d223903feb45a3fc/Candidatura/Lettera_di_Presentazione.pdf" class="github-button" download>
+<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/1_Candidatura/Lettera_di_Presentazione.pdf" class="github-button" download>
     <span class="github-icon">🐙</span> 
     Scarica PDF da GitHub
 </a>
+
+
+   
