@@ -6,7 +6,7 @@ permalink: docs/RTB/index.html
 
 <h1>Candidatura</h1>
 
-Questi sono i documenti redatti durante il periodo di candidatura per aggiudicarsi l'appalto.
+Documenti per la milestone RTB.
 
 <h2>Documentazione Interna</h2>
 <ul>
@@ -22,6 +22,8 @@ Questi sono i documenti redatti durante il periodo di candidatura per aggiudicar
 </ul>
 
 <h3>Verbali Esterni</h3>
+
+
 <ul>
 
 </ul>
