@@ -11,7 +11,7 @@ permalink: docs/RTB/verbali_interni/verbale_24-11-22_v1.0.html
     Scarica PDF da GitHub
 </a>
 
-# Riunione Settimanale 15/11/2024
+# Riunione Settimanale 22/11/2024
 
 **Ver.** | **Data** | **Autore** | **Verificatore** | **Descrizione**
 ---|---|---|---|---
