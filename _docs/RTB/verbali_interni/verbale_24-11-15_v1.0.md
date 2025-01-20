@@ -15,7 +15,7 @@ permalink: docs/RTB/verbali_interni/verbale_24-11-15_v1.0.html
 
 **Ver.** | **Data** | **Autore** | **Verificatore** | **Descrizione**
 ---|---|---|---|---
-1.0 | 20/11/2025 | Filippo Rizzolo | Matthew Pan | Prima stesura del documento
+1.0 | 20/11/2024 | Filippo Rizzolo | Matthew Pan | Prima stesura del documento
 
 # Registro Presenze
 **Piattaforma della riunione:** Piattaforma Discord

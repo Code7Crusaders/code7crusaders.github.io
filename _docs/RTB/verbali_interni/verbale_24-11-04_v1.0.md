@@ -15,7 +15,7 @@ permalink: docs/RTB/verbali_interni/verbale_24-11-04_v1.0.html
 
 **Ver.** | **Data** | **Autore** | **Verificatore** | **Descrizione**
 ---|---|---|---|---
-1.0 | 5/11/2025 | Gabriele Di Pietro | Eddy Pinarello | Prima stesura del documento
+1.0 | 5/11/2024 | Gabriele Di Pietro | Eddy Pinarello | Prima stesura del documento
 
 # Registro Presenze
 **Piattaforma della riunione:** Piattaforma Discord
