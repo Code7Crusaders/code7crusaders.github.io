@@ -57,6 +57,8 @@ Le prossime revisioni saranno la **RTB** (*Requirements and Technology Baseline*
 - *glossario*
 - *Lettera di presentazione*
 - *PoC* **Proof of Concept**
+
 Per quanto riguarda il Glossario, riteniamo utile trovare un modo per evidenziare ogni termine in tutti i documenti in cui compare, in modo che al lettore sia chiaro e non ambiguo. Riteniamo inoltre opportunuo fissare una chiamata con l’azienda per discutere come affrontare le prossime fasi del progetto.
+
 # Conclusioni
 Abbiamo fissato sul nostro Google Calendar condiviso le riunioni settimanali e gli eventuali impegni di gruppo. Abbiamo deciso di incontrarci possibilmente almeno una volta a settimana il venerdì per discutere dei vari avanzamenti ed di eventuali problemi o criticità. Mentre il Lunedì possiamo discutere di cosa bisogna fare e usare la riunione per assegnarci i diversi compiti da fare mettendoli sulla *Project Board* di GitHub.
