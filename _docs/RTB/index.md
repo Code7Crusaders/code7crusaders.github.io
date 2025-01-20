@@ -19,7 +19,7 @@ Documenti per la milestone RTB.
 <h3>Verbali Interni</h3>
 <ul>
     <!-- <li><a href="verbali_interni/verbale_24-11-04_v0.1.html">Verbale 24-11-04 v0.1</a></li>  aspetta versione 1-->
-    <li><a href="verbali_interni/verbale_24-11-04_v1.0.html"></a>Verbale 24-11-04 v1.0</li>
+    <li><a href="verbali_interni/verbale_24-11-04_v1.0.html">Verbale 24-11-04 v1.0</a></li>
 </ul>
 
 <h3>Verbali Esterni</h3>
