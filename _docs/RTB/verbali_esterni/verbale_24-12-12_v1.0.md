@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verbale_24-12-12_v1.0
-permalink: docs/RTB/verbali_interni/verbale_24-12-12_v1.0.html
+permalink: docs/RTB/verbali_esterni/verbale_24-12-12_v1.0.html
 ---
 
 <h2>Download</h2>
