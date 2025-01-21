@@ -22,4 +22,14 @@ title: Home Page
 </ul>
 
 <h2>Diari di Bordo</h2>
-             
+<ul>
+    <li><a href="docs/diari_di_bordo/diario_24-10-28.html">Diario_24-10-28</a></li>
+    <li><a href="#">Diario_24-11-12</a></li>
+    <li><a href="#">Diario_24-11-18</a></li>
+    <li><a href="#">Diario_24-11-25</a></li>
+    <li><a href="#">Diario_24-12-02</a></li>
+    <li><a href="#">Diario_24-12-09</a></li>
+    <li><a href="#">Diario_24-12-18</a></li>
+    <li><a href="#">Diario_25-01-08</a></li>
+    <li><a href="#">Diario_25-01-13</a></li>
+</ul>
