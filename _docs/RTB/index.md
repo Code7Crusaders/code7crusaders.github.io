@@ -33,7 +33,8 @@ Documenti per la milestone RTB.
 
 <h3>Verbali Esterni</h3>
 <ul>
-    <li><a href="verbali_interni/verbale_24-11-14_v1.0.html">Verbale 24-11-14</a></li>
+    <li><a href="verbali_esterni/verbale_24-11-14_v1.0.html">Verbale 24-11-14</a></li>
+    <li><a href="verbali_esterni/verbale_24-12-12_v1.0.html">Verbale 24-12-12</a></li>
 </ul>
 
 

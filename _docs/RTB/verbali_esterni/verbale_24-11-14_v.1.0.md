@@ -11,7 +11,7 @@ permalink: docs/RTB/verbali_interni/verbale_24-11-14_v1.0.html
     Scarica PDF da GitHub
 </a>
 
-# Incontro del 14/11/2024
+# Incontro del 14/11/2024 con Ergon
 
 **Ver.** | **Data** | **Autore** | **Verificatore** | **Descrizione**
 ---|---|---|---|---
