@@ -19,7 +19,9 @@ permalink: docs/RTB/verbali_interni/verbale_24-11-04_v1.0.html
 
 # Registro Presenze
 **Piattaforma della riunione:** Piattaforma Discord
+
 **Ora di Inizio:** 21:00
+
 **Ora di Fine:** 23:00
 
 **Componente** | **Ruolo** | **Presenza**
