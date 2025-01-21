@@ -13,12 +13,14 @@ Documenti per la milestone RTB.
     <li><a href="documentazione_interna/glossario.html">Glossario</a></li>
     <li><a href="documentazione_interna/norme_di_progetto.html">Norme di Progetto</a></li>
 </ul>
+
 <h2>Documentazione Esterna</h2>
 <ul>
     <li><a href="documentazione_esterna/analisi_dei_requisiti/analisi_dei_requisiti.html">Analisi dei Requisiti</a></li>
     <li><a href="#">Piano di Qualifica</a> (WIP)</li>
-    <li><a href="#">Piano di Progetto</a>< (WIP)/li>
+    <li><a href="#">Piano di Progetto</a>(WIP)</li>
 </ul>
+
 <h3>Verbali Interni</h3>
 <ul>
     <!-- <li><a href="verbali_interni/verbale_24-11-04_v0.1.html">Verbale 24-11-04 v0.1</a></li>  aspetta versione 1-->
