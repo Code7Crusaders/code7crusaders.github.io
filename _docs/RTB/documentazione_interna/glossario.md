@@ -124,6 +124,13 @@ Una dimostrazione pratica per validare la fattibilità di un'idea, tecnologia o 
 ### PostgreSQL
 PostgreSQL è un sistema di gestione di database relazionali open-source, noto per la sua robustezza, scalabilità e supporto per operazioni avanzate come transazioni ACID e gestione di dati JSON. È ampiamente utilizzato per applicazioni che richiedono affidabilità e performance.
 
+### Prompt
+Input testuale o visivo fornito a un'intelligenza artificiale per guidarne la generazione di risposte, immagini o altri output. Nel contesto dei chatbot e dei modelli di IA, il prompt determina il comportamento e il contenuto della risposta generata.
+
+### Props
+eccanismo in React che permette di passare dati e funzioni da un componente padre a un componente figlio. I props sono immutabili e consentono la personalizzazione e il riutilizzo dei componenti, mantenendo un flusso unidirezionale dei dati.
+
+
 ## Q
 
 ### Query Semantica
@@ -142,7 +149,13 @@ Una revisione formale che stabilisce i requisiti funzionali e tecnici di un prog
 ### Scalabilità
 La scalabilità è la capacità di un sistema di gestire un aumento del carico di lavoro o delle risorse senza compromettere le prestazioni. Un sistema scalabile può adattarsi a una maggiore domanda aggiungendo risorse in modo efficace, sia aumentando la capacità di singole risorse (scalabilità verticale) che aggiungendo più risorse (scalabilità orizzontale). È essenziale per mantenere alte le performance in ambienti in crescita.
 
+### Stakeholder
+Insieme dei portatori di interessi, ossia le persone che, a vario titolo, sono coinvolte nel ciclo di vita del software, influenzandone il prodotto o il processo. Possono includere clienti, utenti finali, sviluppatori, finanziatori e altri soggetti che, direttamente o indirettamente, contribuiscono al successo del progetto, determinando requisiti, vincoli e obiettivi da raggiungere.
+
 ## T
+
+### Template
+Funzionalità integrate di un chatbot che consentono agli utenti di eseguire operazioni specifiche senza che l'utente debba inserire le istruzioni al chatbot, come può essere la visualizzazione in lista di prodotti, richieste specifiche di un prodotto ecc.
 
 ### Template di LaTeX
 Un modello predefinito per la creazione di documenti in LaTeX. Consente di standardizzare la struttura e il formato dei documenti, semplificando la redazione e migliorando la coerenza stilistica.
