@@ -18,7 +18,7 @@ title: Home Page
 
 <ul>
     <li><a href="docs/altri_documenti/analisi_modelli_firmato.html">Analisi Modelli</a></li>
-    <li><a href="docs/altri_documenti/analisi_frontend_firmato.html">Analisi framework frontend</a></li>
+    <li><a href="docs/altri_documenti/analisi_frontend.html">Analisi framework frontend</a></li>
 </ul>
 
 <h2>Diari di Bordo</h2>
