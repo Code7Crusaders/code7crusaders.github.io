@@ -23,7 +23,6 @@ Documenti per la milestone RTB.
 
 <h3>Verbali Interni</h3>
 <ul>
-    <!-- <li><a href="verbali_interni/verbale_24-11-04_v0.1.html">Verbale 24-11-04 v0.1</a></li>  aspetta versione 1-->
     <li><a href="verbali_interni/verbale_24-11-04_v1.0.html">Verbale 24-11-04</a></li>
     <li><a href="verbali_interni/verbale_24-11-15_v1.0.html">Verbale 24-11-15</a></li>
     <li><a href="verbali_interni/verbale_24-11-22_v1.0.html">Verbale 24-11-22</a></li>
@@ -32,7 +31,7 @@ Documenti per la milestone RTB.
     <li><a href="verbali_interni/verbale_24-12-13_v1.0.html">Verbale 24-12-13</a></li>
     <li><a href="verbali_interni/verbale_24-12-19_v1.0.html">Verbale 24-12-19</a></li>
     <li><a href="#">Verbale 25-01-18</a>(WIP)</li>
-    <li><a href="#">Verbale 25-01-24</a><(WIP)/li>
+    <li><a href="#">Verbale 25-01-24</a><(WIP)</li>
     <li><a href="verbali_interni/verbale_25-02-04_v1.0.html">Verbale 25-02-04</a></li>
 </ul>
 
