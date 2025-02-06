@@ -46,5 +46,7 @@ Dopo la giornata odierna, in cui si è svolto l'esame scritto di Ingegneria del 
 - Svolgere l'incontro dedicato alla revisione dell'RTB, analizzando eventuali criticità emerse.
 - Aggiornare e affinare le definizioni presenti nel glossario, eseguendo lo script Python su alcuni documenti per identificare e collegare i termini ambigui alle relative definizioni.
 - Aggionare il sito web.
+
+
 ## Conclusioni
 Concludiamo la riunione assegnando le nuove issue e definendo scadenze più ravvicinate per la chiusura della sprint, tenendo conto del previsto termine della sessione d'esami per alcuni membri del team. La prossima riunione è programmata per il **07/02/2025**, subito dopo l'incontro di revisione dell'RTB. L'obiettivo sarà organizzare al meglio il lavoro in vista della fase successiva del progetto, assicurando una distribuzione efficace delle attività e una gestione ottimale delle priorità.
