@@ -39,4 +39,8 @@ Documenti per la milestone RTB.
     <li><a href="verbali_esterni/verbale_24-12-12_v1.0.html">Verbale 24-12-12</a></li>
 </ul>
 
+<h3>Lettera di Presentazione</h3>
+<ul>
+    <li><a href="#">Lettera di Presentazione</a>(WIP)</li>
+</ul>
 
