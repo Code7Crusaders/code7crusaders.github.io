@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Analisi Frontend
-permalink: docs/altri_documenti/analisi_frontend.html
+permalink: docs/altri_documenti/analisi_frontend_firmato.html
 ---
 <h1>Analisi framework frontend</h1>
 <h2>Obiettivo</h2>
