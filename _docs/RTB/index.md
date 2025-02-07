@@ -17,8 +17,8 @@ Documenti per la milestone RTB.
 <h2>Documentazione Esterna</h2>
 <ul>
     <li><a href="documentazione_esterna/analisi_dei_requisiti/analisi_dei_requisiti.html">Analisi dei Requisiti</a></li>
-    <li><a href="#">Piano di Qualifica</a> (WIP)</li>
-    <li><a href="#">Piano di Progetto</a>(WIP)</li>
+    <li><a href="documentazione_esterna/piano_di_qualifica.html">Piano di Qualifica</a></li>
+    <li><a href="documentazione_esterna/piano_di_progetto.html">Piano di Progetto</a></li>
 </ul>
 
 <h3>Verbali Interni</h3>
