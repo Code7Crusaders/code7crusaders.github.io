@@ -10,6 +10,7 @@ permalink: docs/RTB/verbali_interni/verbale_25-02-04_v1.0.html
     <span class="github-icon">🐙</span> 
     Scarica PDF da GitHub
 </a>
+
 ---
 
 # Riunione Settimanale 04/02/2025

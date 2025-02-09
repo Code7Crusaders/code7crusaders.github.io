@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verbale_25-01-18_v1.0
-permalink: docs/RTB/verbali_interni/verbale_25-02-04_v1.0.html
+permalink: docs/RTB/verbali_interni/verbale_25-01-18_v1.0.html
 ---
 
 <h2>Download</h2>
@@ -10,6 +10,7 @@ permalink: docs/RTB/verbali_interni/verbale_25-02-04_v1.0.html
     <span class="github-icon">🐙</span> 
     Scarica PDF da GitHub
 </a>
+
 ---
 
 # Riunione Settimanale 18/01/2025

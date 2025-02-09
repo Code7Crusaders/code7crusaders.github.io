@@ -10,6 +10,7 @@ permalink: docs/RTB/verbali_interni/verbale_25-01-24_v1.0.html
     <span class="github-icon">🐙</span> 
     Scarica PDF da GitHub
 </a>
+
 ---
 
 # Riunione Settimanale 24/01/2025
