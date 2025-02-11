@@ -27,7 +27,7 @@ permalink: docs/RTB/documentazione_interna/glossario.html
 ## A
 
 ### Analisi dei Requisiti
-Processo di identificazione e definizione delle necessità e delle aspettative degli stakeholder per un progetto. Serve come base per la progettazione e lo sviluppo del prodotto.
+Processo di identificazione e definizione delle necessità e delle aspettative degli stakeholder per un progetto. Serve per ricavare i requisiti che andranno ad essere soddisfatti tramite progettazione e sviluppo del prodotto.
 
 ### API REST (Representational State Transfer)
 Un'architettura per la progettazione di servizi web che consente la comunicazione tra sistemi attraverso il protocollo HTTP. In un'API REST, le risorse (come dati o funzionalità) sono identificate da URL univoci e possono essere manipolate utilizzando operazioni standard come GET, POST, PUT e DELETE. L'architettura è stateless, il che significa che ogni richiesta contiene tutte le informazioni necessarie per essere elaborata senza fare affidamento su dati memorizzati sul server. È ampiamente utilizzata per creare applicazioni scalabili e interoperabili.
@@ -58,10 +58,10 @@ Un sistema di gestione dei dati che organizza le informazioni in tabelle struttu
 Un database vettoriale è un tipo di sistema di gestione dei dati progettato per memorizzare, indicizzare e cercare vettori, ossia rappresentazioni numeriche di oggetti come parole, immagini o concetti. I vettori sono utilizzati per catturare le caratteristiche semantiche di un dato e vengono comunemente usati nei modelli di machine learning e di linguaggio naturale. I database vettoriali permettono di effettuare ricerche rapide basate sulla similarità tra vettori, come nel caso della ricerca per vicinanza (nearest neighbor search), che è utile per applicazioni come il recupero delle informazioni e la raccomandazione di contenuti.
 
 ### Diagrammi UML
-Diagrammi standardizzati utilizzati per modellare e visualizzare il design di sistemi software. Aiutano a descrivere la struttura, il comportamento e le interazioni tra componenti del sistema.
+Diagrammi standardizzati utilizzati per modellare e visualizzare il design di sistemi software. Aiutano a descrivere la struttura, il comportamento e le interazioni tra componenti del sistema. I diagrammi UML includono classi, casi d'uso, attività e molti altri tipi, ciascuno con uno scopo specifico per rappresentare aspetti diversi del sistema. 
 
 ### Documentazione Formale e Informale
-La documentazione formale include materiali ufficiali come norme e piani di progetto, mentre quella informale comprende appunti e bozze non ancora approvate. Entrambe supportano lo sviluppo del progetto.
+La documentazione formale include materiali ufficiali come norme e piani di progetto, spesso richiesta per conformità e audit. La documentazione informale comprende appunti e bozze non ancora approvate, ed è più flessibile, utilizzata principalmente per comunicazioni interne. Entrambe supportano lo sviluppo del progetto.
 
 ## E
 
@@ -127,7 +127,8 @@ Documento formale che delinea in dettaglio la pianificazione, la esecuzione, il 
 Documento che stabilisce gli standard di qualità, i processi e le attività di testing che saranno implementati durante lo sviluppo di un progetto. Contiene una descrizione dettagliata delle strategie di testing, delle metriche di valutazione e dei criteri di accettazione del prodotto finale.
 
 ## Pipeline RAG
-Retrieval-Augmented Generation, un'architettura che combina il recupero di informazioni da un database con modelli di linguaggio per generare risposte accurate e contestualizzate.
+Retrieval-Augmented Generation (RAG) è un'architettura che combina il recupero di informazioni da un database con modelli di linguaggio per generare risposte accurate e contestualizzate. Il processo si articola in due fasi principali: il retrieval e la generazione. Nella fase di retrieval, il sistema cerca e recupera documenti rilevanti da un database o da altre fonti di conoscenza, utilizzando tecniche di ricerca avanzate per identificare le informazioni più pertinenti. Successivamente, nella fase di generazione, un modello di linguaggio utilizza le informazioni recuperate per produrre risposte coerenti e arricchite dal contenuto estratto. Questo approccio migliora significativamente la qualità delle risposte, rendendole più precise e informate rispetto ai modelli di linguaggio tradizionali che non integrano il retrieval.
+
 
 ### PoC (Proof of Concept)
 Una dimostrazione pratica per validare la fattibilità di un'idea, tecnologia o progetto. Permette di identificare eventuali rischi o limitazioni prima di procedere con lo sviluppo completo.
@@ -141,7 +142,6 @@ Input testuale o visivo fornito a un'intelligenza artificiale per guidarne la ge
 ### Props
 Meccanismo in React che permette di passare dati e funzioni da un componente padre a un componente figlio. I props sono immutabili e consentono la personalizzazione e il riutilizzo dei componenti, mantenendo un flusso unidirezionale dei dati.
 
-
 ## Q
 
 ### Query Semantica
@@ -150,7 +150,8 @@ La query semantica è una tecnica di ricerca che si basa sull'analisi del signif
 ## R
 
 ### Roadmap di GitHub
-Strumento visuale per pianificare e monitorare il progresso delle attività di un progetto all'interno di GitHub. Aiuta a gestire priorità, scadenze e assegnazione dei compiti.
+Strumento visuale per pianificare e monitorare il progresso delle attività di un progetto all'interno di GitHub. Gestite tramite GitHub Projects, le roadmap aiutano a pianificare iterazioni, milestone e obiettivi di un progetto software, facilitando la gestione delle priorità, delle scadenze e dell'assegnazione dei compiti.
+
 
 ### RTB (Requirements and Technology Baseline)
 Una revisione formale che stabilisce i requisiti funzionali e tecnici di un progetto, definendo il punto di riferimento per lo sviluppo e la verifica delle funzionalità richieste.
@@ -166,7 +167,8 @@ Insieme dei portatori di interessi, ossia le persone che, a vario titolo, sono c
 ## T
 
 ### Template
-Funzionalità integrate di un chatbot che consentono agli utenti di eseguire operazioni specifiche senza che l'utente debba inserire le istruzioni al chatbot, come può essere la visualizzazione in lista di prodotti, richieste specifiche di un prodotto ecc.
+Funzionalità predefinite di un chatbot che permettono di rispondere a domande frequenti o eseguire azioni specifiche senza dover fare una chiamata all'LLM ogni volta. I template sono domande registrate nel sistema, associate a risposte già esistenti, configurate dagli amministratori. Questo permette di rispondere rapidamente a richieste comuni, migliorando l'efficienza e riducendo il carico computazionale.
+
 
 ### Template di LaTeX
 Un modello predefinito per la creazione di documenti in LaTeX. Consente di standardizzare la struttura e il formato dei documenti, semplificando la redazione e migliorando la coerenza stilistica.
