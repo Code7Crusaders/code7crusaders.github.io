@@ -15,7 +15,7 @@ permalink: docs/RTB/documentazione_interna/glossario.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **descrizione**
 ---|--|--|-|-|
-1.0|04/02/2025|Eddy Pinarello| ... | Approvazione documento
+1.0|04/02/2025|Eddy Pinarello| Enrico Cotti Cottini | Approvazione documento
 0.3|21/01/2025|Eddy Pinarello| Gabriele Di Pietro| Aggiunta di nuovi termini
 0.2|18/11/2024|Enrico Cotti Cottini| Gabriele Di Pietro| Aggiunta di nuovi termini
 0.1|05/11/2024|Gabriele Di Pietro| Filippo Rizzolo| Prima stesura del documento
