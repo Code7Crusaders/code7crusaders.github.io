@@ -11,6 +11,8 @@ permalink: docs/RTB/documentazione_interna/glossario.html
     Scarica PDF da GitHub
 </a>
 
+---
+
 <h2>Versioni</h2>
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **descrizione**
@@ -20,7 +22,7 @@ permalink: docs/RTB/documentazione_interna/glossario.html
 0.2|18/11/2024|Enrico Cotti Cottini| Gabriele Di Pietro| Aggiunta di nuovi termini
 0.1|05/11/2024|Gabriele Di Pietro| Filippo Rizzolo| Prima stesura del documento
 
-
+---
 
 <h2>Glossario RTB</h2>
 

@@ -3,6 +3,16 @@ layout: default
 title: Norme di Progetto
 permalink: docs/RTB/documentazione_interna/norme_di_progetto.html
 ---
+
+<h2>Download</h2>
+
+<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/2_RTB/documentazione_interna/norme_di_progetto_v1.0.pdf" class="github-button" download>
+    <span class="github-icon">🐙</span> 
+    Scarica PDF da GitHub
+</a>
+
+---
+
 <h1>Norme di Progetto</h1>
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **descrizione**
@@ -17,10 +27,3 @@ permalink: docs/RTB/documentazione_interna/norme_di_progetto.html
 0.2|18/11/2024|Matthew Pan| Eddy Pinarello| Stesura sezione 2
 0.1|12/11/2024|Matthew Pan| Enrico Cotti Cottini| Prima stesura sezioni 1 e 2
 
----
-<h2>Download</h2>
-
-<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/2_RTB/documentazione_interna/norme_di_progetto_v1.0.pdf" class="github-button" download>
-    <span class="github-icon">🐙</span> 
-    Scarica PDF da GitHub
-</a>

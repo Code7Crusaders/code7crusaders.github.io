@@ -10,6 +10,7 @@ permalink: docs/RTB/documentazione_esterna/analisi_dei_requisiti/analisi_dei_req
     <span class="github-icon">🐙</span> 
     Scarica PDF da GitHub
 </a>
+
 ---
 
 <h1>Analisi dei requisiti</h1>

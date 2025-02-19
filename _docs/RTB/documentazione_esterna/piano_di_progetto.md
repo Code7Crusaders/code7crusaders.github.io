@@ -11,6 +11,8 @@ permalink: docs/RTB/documentazione_esterna/piano_di_progetto.html
     Scarica PDF da GitHub
 </a>
 
+---
+
 <h1>Piano Di Progetto</h1>
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**

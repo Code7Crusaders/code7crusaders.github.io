@@ -6,6 +6,7 @@ title: Home Page
 
 <p>Benvenuti nel sito ufficiale della documentazione del team Code7Crusaders. Qui troverete tutte le informazioni necessarie sul nostro progetto per Ergon Informatica, l'Assistente LLM. In questa pagina troverete i link a tutti i documenti del progetto.</p>
 
+---
 
 <h2>Documentazione Progetto</h2>
 
@@ -13,6 +14,8 @@ title: Home Page
     <li><a href="docs/Candidatura/index.html">Candidatura</a></li>
     <li><a href="docs/RTB/index.html">RTB</a></li>
 </ul>
+
+---
 
 <h2>Altri Documenti</h2>
 
@@ -22,6 +25,8 @@ title: Home Page
     <li><a href="docs/altri_documenti/analisi_framework_backend.html">Analisi framework backend</a></li>
     <li><a href="docs/altri_documenti/analisi_dbvettoriale.html">Analisi DB vettoriale</a></li>
 </ul>
+
+---
 
 <h2>Diari di Bordo</h2>
 <ul>
