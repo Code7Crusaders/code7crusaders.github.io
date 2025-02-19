@@ -3,6 +3,15 @@ layout: default
 title: Analisi dei Requisiti
 permalink: docs/RTB/documentazione_esterna/analisi_dei_requisiti/analisi_dei_requisiti.html
 ---
+
+<h2>Download</h2>
+
+<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/2_RTB/documentazione_esterna/analisi_dei_requisiti/analisi_dei_requisiti_v2.0.pdf" class="github-button" download>
+    <span class="github-icon">🐙</span> 
+    Scarica PDF da GitHub
+</a>
+---
+
 <h1>Analisi dei requisiti</h1>
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
@@ -22,13 +31,3 @@ permalink: docs/RTB/documentazione_esterna/analisi_dei_requisiti/analisi_dei_req
 0.5 | 16/12/2024 | Gabriele Di Pietro | Enrico Cotti Cottini | Inizio stesura dei Requisiti
 0.3 | 06/12/2024 | Gabriele Di Pietro | Enrico Cotti Cottini | Aggiunti Casi D'Uso
 0.2 | 20/11/2024 | Enrico Cotti Cottini | Gabriele Di Pietro | Prima stesura del documento
-
-
----
-
-<h2>Download</h2>
-
-<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/2_RTB/documentazione_esterna/analisi_dei_requisiti/analisi_dei_requisiti_v2.0.pdf" class="github-button" download>
-    <span class="github-icon">🐙</span> 
-    Scarica PDF da GitHub
-</a>
