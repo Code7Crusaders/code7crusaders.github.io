@@ -28,6 +28,10 @@ permalink: docs/RTB/documentazione_interna/glossario.html
 
 ## A
 
+### Actual Cost
+L’Actual Cost (Costo Effettivo) rappresenta il costo effettivamente sostenuto per completare il lavoro fino al periodo in analisi.
+
+
 ### Analisi dei Requisiti
 Processo di identificazione e definizione delle necessità e delle aspettative degli stakeholder per un progetto. Serve per ricavare i requisiti che andranno ad essere soddisfatti tramite progettazione e sviluppo del prodotto.
 
@@ -51,6 +55,12 @@ Un benchmark è un punto di riferimento utilizzato per misurare le prestazioni d
 ### BERT (Bidirectional Encoder Representations from Transformers)
 BERT è un modello di linguaggio sviluppato da Google che utilizza trasformatori per comprendere il contesto di una parola considerando sia le parole precedenti che quelle successive. Questo approccio bidirezionale migliora la comprensione del testo in compiti come la classificazione, la risposta a domande e l'analisi del linguaggio naturale. BERT è pre-addestrato su grandi dataset e può essere facilmente adattato a diverse applicazioni specifiche.
 
+## C
+
+### Cost Variance
+La Cost Variance (o Variazione dei Costi) rappresenta la differenza tra il valore del lavoro effettivamente completato e il costo effettivamente sostenuto per completarlo, calcolata in percentuale.
+
+
 ## D
 
 ### Database Relazionale
@@ -67,8 +77,17 @@ La documentazione formale include materiali ufficiali come norme e piani di prog
 
 ## E
 
+### Earned Value
+L’Earned Value (Valore Guadagnato) rappresenta il valore del lavoro effettivamente completato fino al periodo in analisi.
+
 ### Embedding
 Una tecnica utilizzata nell'intelligenza artificiale e nell'elaborazione del linguaggio naturale per rappresentare parole, frasi o interi documenti in uno spazio vettoriale. Ogni elemento viene trasformato in un vettore numerico, dove la posizione e la distanza tra i vettori riflettono il significato semantico. Gli embedding consentono di confrontare testi in modo efficiente, trovando similarità tra concetti e facilitando attività come la ricerca semantica, la classificazione dei testi e il clustering.
+
+### Estimate at Completion
+L’Estimate at Completion (o Stima da Completare) rappresenta una previsione aggiornata del costo totale del progetto basata sulle performance attuali, calcolata in base ai costi effettivamente sostenuti e ai costi stimati per completare il lavoro rimanente.
+
+### Estimate to Complete
+L’Estimate to Complete (o Stima al Completamento) rappresenta una previsione del costo necessario per completare le attività rimanenti del progetto basata sulle performance attuali.
 
 ## F
 
@@ -131,6 +150,8 @@ Documento che stabilisce gli standard di qualità, i processi e le attività di 
 ## Pipeline RAG
 Retrieval-Augmented Generation (RAG) è un'architettura che combina il recupero di informazioni da un database con modelli di linguaggio per generare risposte accurate e contestualizzate. Il processo si articola in due fasi principali: il retrieval e la generazione. Nella fase di retrieval, il sistema cerca e recupera documenti rilevanti da un database o da altre fonti di conoscenza, utilizzando tecniche di ricerca avanzate per identificare le informazioni più pertinenti. Successivamente, nella fase di generazione, un modello di linguaggio utilizza le informazioni recuperate per produrre risposte coerenti e arricchite dal contenuto estratto. Questo approccio migliora significativamente la qualità delle risposte, rendendole più precise e informate rispetto ai modelli di linguaggio tradizionali che non integrano il retrieval.
 
+### Planned Value
+Il Planned Value (Valore Pianificato) rappresenta il valore del lavoro programmato per essere completato fino a un determinato momento. Si tratta del budget preventivato per lo sprint in corso.
 
 ### PoC (Proof of Concept)
 Una dimostrazione pratica per validare la fattibilità di un'idea, tecnologia o progetto. Permette di identificare eventuali rischi o limitazioni prima di procedere con lo sviluppo completo.
@@ -146,10 +167,16 @@ Meccanismo in React che permette di passare dati e funzioni da un componente pad
 
 ## Q
 
+### QMS
+Metriche di Qualità Soddisfatte indica il numero di metriche implementate e soddisfatte, tra quelle definite.
+
 ### Query Semantica
 La query semantica è una tecnica di ricerca che si basa sull'analisi del significato delle parole nel linguaggio naturale, piuttosto che sulla semplice corrispondenza di termini. Permette di trovare informazioni rilevanti in un database tenendo conto del contesto e delle relazioni tra concetti, migliorando la qualità dei risultati. Viene utilizzata in motori di ricerca e assistenti virtuali per comprendere meglio le intenzioni dell'utente.
 
 ## R
+
+### Requirements Stability Index
+Il Requirements Stability Index indica la percentuale di requisiti che sono rimasti invariati rispetto al totale dei requisiti inizialmente definiti. Si tratta di una metrica utilizzata per misurare quanto i requisiti di un progetto rimangono stabili durante il ciclo di vita del progetto stesso, è particolarmente utile per comprendere l’impatto delle modifiche ai requisiti sul progetto.
 
 ### Roadmap di GitHub
 Strumento visuale per pianificare e monitorare il progresso delle attività di un progetto all'interno di GitHub. Gestite tramite GitHub Projects, le roadmap aiutano a pianificare iterazioni, milestone e obiettivi di un progetto software, facilitando la gestione delle priorità, delle scadenze e dell'assegnazione dei compiti.
@@ -162,6 +189,10 @@ Una revisione formale che stabilisce i requisiti funzionali e tecnici di un prog
 
 ### Scalabilità
 La scalabilità è la capacità di un sistema di gestire un aumento del carico di lavoro o delle risorse senza compromettere le prestazioni. Un sistema scalabile può adattarsi a una maggiore domanda aggiungendo risorse in modo efficace, sia aumentando la capacità di singole risorse (scalabilità verticale) che aggiungendo più risorse (scalabilità orizzontale). È essenziale per mantenere alte le performance in ambienti in crescita.
+
+### Scheduled Variance
+La Schedule Variance (o Variazione di Programma) rappresenta la differenza tra il valore del lavoro effettivamente completato e il valore del lavoro pianificato, calcolata in percentuale.
+
 
 ### Stakeholder
 Insieme dei portatori di interessi, ossia le persone che, a vario titolo, sono coinvolte nel ciclo di vita del software, influenzandone il prodotto o il processo. Possono includere clienti, utenti finali, sviluppatori, finanziatori e altri soggetti che, direttamente o indirettamente, contribuiscono al successo del progetto, determinando requisiti, vincoli e obiettivi da raggiungere.
