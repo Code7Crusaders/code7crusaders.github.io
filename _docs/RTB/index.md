@@ -45,6 +45,6 @@ Documenti per la milestone RTB.
 
 <h3>Lettera di Presentazione</h3>
 <ul>
-    <li><a href="#">Lettera di Presentazione</a>(WIP)</li>
+    <li><a href="lettera_di_presentazione_RTB.html">Lettera di Presentazione</a></li>
 </ul>
 
