@@ -25,7 +25,7 @@ Documenti per la milestone PB.
 
 <h3>Verbali Interni</h3> <!--Mettere in ordine di ultima modifica in alto e la più vecchia in basso-->
 <ul>
-    <li><a href="#">Verbale</a>(WIP)</li>
+    <li><a href="verbale_interno/verbale_25-02-28.html">Verbale 25-02-28</a></li>
 </ul>
 
 <h3>Verbali Esterni</h3>
