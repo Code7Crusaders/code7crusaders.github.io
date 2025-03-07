@@ -31,13 +31,13 @@ title: Home Page
 
 <h2>Diari di Bordo</h2>
 <ul>
-    <li><a href="docs/diari_di_bordo/diario_24-10-28.html">Diario_24-10-28</a></li>
-    <li><a href="docs/diari_di_bordo/diario_24-11-12.html">Diario_24-11-12</a></li>
-    <li><a href="docs/diari_di_bordo/diario_24-11-18.html">Diario_24-11-18</a></li>
-    <li><a href="docs/diari_di_bordo/diario_24-11-25.html">Diario_24-11-25</a></li>
-    <li><a href="docs/diari_di_bordo/diario_24-12-02.html">Diario_24-12-02</a></li>
-    <li><a href="docs/diari_di_bordo/diario_24-12-09.html">Diario_24-12-09</a></li>
-    <li><a href="docs/diari_di_bordo/diario_24-12-18.html">Diario_24-12-18</a></li>
-    <li><a href="docs/diari_di_bordo/diario_25-01-08.html">Diario_25-01-08</a></li>
-    <li><a href="docs/diari_di_bordo/diario_25-01-13.html">Diario_25-01-13</a></li>
+    <li><a href="docs/diari_di_bordo/diario_25-01-13.html" target="_blank">Diario_25-01-13</a></li>
+    <li><a href="docs/diari_di_bordo/diario_25-01-08.html" target="_blank">Diario_25-01-08</a></li>
+    <li><a href="docs/diari_di_bordo/diario_24-12-18.html" target="_blank">Diario_24-12-18</a></li>
+    <li><a href="docs/diari_di_bordo/diario_24-12-09.html" target="_blank">Diario_24-12-09</a></li>
+    <li><a href="docs/diari_di_bordo/diario_24-12-02.html" target="_blank">Diario_24-12-02</a></li>
+    <li><a href="docs/diari_di_bordo/diario_24-11-25.html" target="_blank">Diario_24-11-25</a></li>
+    <li><a href="docs/diari_di_bordo/diario_24-11-18.html" target="_blank">Diario_24-11-18</a></li>
+    <li><a href="docs/diari_di_bordo/diario_24-11-12.html" target="_blank">Diario_24-11-12</a></li>
+    <li><a href="docs/diari_di_bordo/diario_24-10-28.html" target="_blank">Diario_24-10-28</a></li>
 </ul>
