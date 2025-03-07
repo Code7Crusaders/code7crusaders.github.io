@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verbale_25-02-28_v1.0
-permalink: docs/PB/verbali_interno/verbale_25-02-28.html
+permalink: docs/PB/verbale_interno/verbale_25-02-28.html
 ---
 
 <h2>Download</h2>
