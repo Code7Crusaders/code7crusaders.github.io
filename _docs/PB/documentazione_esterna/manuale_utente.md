@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manuale Utente
-permalink: docs/RTB/documentazione_esterna/manuale_utente.html
+permalink: docs/PB/documentazione_esterna/manuale_utente.html
 ---
 
 <h2>Download</h2>
