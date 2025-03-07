@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Candidatura
+title: PB
 permalink: docs/PB/index.html
 ---
 
