@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verbale_25-03-04_v1.0
-permalink: docs/PB/verbale_interno/verbale_25-03-04.html
+permalink: docs/PB/verbale_esterno/verbale_25-03-04.html
 ---
 
 <h2>Download</h2>
