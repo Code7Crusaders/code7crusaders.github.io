@@ -48,3 +48,9 @@ Documenti per la milestone RTB.
     <li><a href="lettera_di_presentazione_RTB.html" target="_blank">Lettera di Presentazione</a></li>
 </ul>
 
+<h4>Colloqui RTB</h4>
+<ul>
+    <li><a href="presentazioneRTB/presentazione_cardin.html" target="_blank">Presentazione Colloquio Cardin</a></li>
+    <li><a href="presentazioneRTB/presentazione_tullio.html" target="_blank">Presentazione Colloquio Vardanega</a></li>
+</ul>
+
