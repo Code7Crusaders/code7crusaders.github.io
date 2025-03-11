@@ -25,7 +25,7 @@ permalink: docs/PB/documentazione_interna/glossario.html
 
 ---
 
-<h2>Glossario RTB</h2>
+<h2>Glossario PB</h2>
 
 ## A
 
