@@ -18,12 +18,12 @@ Se desideri metterti in contatto con noi, puoi inviarci un'email a uno degli ind
 | Membro               | Email                          | Profilo GitHub                                      |
 |----------------------|--------------------------------|-----------------------------------------------------|
 | Enrico Cotti Cottini | enrico.cotticottini@gmail.com  | [Enrico Cotti Cottini](https://github.com/CcEnrico) |
-| Gabriele Di Pietro   | gabrielecorubolo@gmail.com           | [Gabriele Di Pietro](https://github.com/GabrieleDiPietro)     |
-| Tommaso Diviesti     | tommaso.diviesti@studenti.unipd.it            | [Tommaso Diviesti](https://github.com/TommasoDiviesti)       |
-| Francesco Lapenna    | francesco.lapenna.d@gmail.com         | [Francesco Lapenna](https://github.com/FrancescoLapenna)     |
-| Matthew Pan          | matthew.pan@studenti.unipd.it            | [Matthew Pan](https://github.com/MatthewPan)                 |
+| Gabriele Di Pietro   | gabrielecorubolo@gmail.com           | [Gabriele Di Pietro](https://github.com/SerpenTaki)     |
+| Tommaso Diviesti     | tommaso.diviesti@studenti.unipd.it            | [Tommaso Diviesti](https://github.com/tommasodiviesti)       |
+| Francesco Lapenna    | francesco.lapenna.d@gmail.com         | [Francesco Lapenna](https://github.com/francesco-lapenna)     |
+| Matthew Pan          | matthew.pan@studenti.unipd.it            | [Matthew Pan](https://github.com/matthew-pan-98)                 |
 | Eddy Pinarello       | eddypinarello2003@gmail.com               | [Eddy Pinarello](https://github.com/EddyPinarello)           |
-| Filippo Rizzolo      | rizzolofilippo18@gmail.com            | [Filippo Rizzolo](https://github.com/FilippoRizzolo)         |
+| Filippo Rizzolo      | rizzolofilippo18@gmail.com            | [Filippo Rizzolo](https://github.com/Pipp0z)         |
 
 
 Puoi trovare il codice sorgente per il tema Minimal su GitHub:
