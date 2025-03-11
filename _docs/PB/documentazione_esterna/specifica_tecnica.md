@@ -13,7 +13,7 @@ permalink: docs/PB/documentazione_esterna/specifica_tecnica.html
 
 ---
 
-<h1>Piano Di Progetto</h1>
+<h1>Specifica Tecnica</h1>
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---

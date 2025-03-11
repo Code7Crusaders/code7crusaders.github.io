@@ -13,7 +13,7 @@ permalink: docs/PB/documentazione_esterna/manuale_utente.html
 
 ---
 
-<h1>Piano Di Progetto</h1>
+<h1>Manuale Utente</h1>
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---
