@@ -17,8 +17,9 @@ permalink: docs/PB/documentazione_esterna/specifica_tecnica.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---
-0.2 | 05/03/2025 | Eddy Pinarello | | Stesura sezioni 2 e 4
-0.1 | 01/03/2025 | Eddy Pinarello | | Prima stesura del documento
+0.3 | 12/03/2025 | Francesco Lapenna | | Prima stesura sezione 3
+0.2 | 05/03/2025 | Eddy Pinarello | Francesco Lapenna | Stesura sezioni 2 e 4
+0.1 | 01/03/2025 | Eddy Pinarello | Francesco Lapenna | Prima stesura del documento
 
 ---
 

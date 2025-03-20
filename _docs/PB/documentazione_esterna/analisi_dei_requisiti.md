@@ -17,8 +17,8 @@ permalink: docs/PB/documentazione_esterna/analisi_dei_requisiti.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---
-2.3 | 06/03/2025 | Gabriele Di Pietro | | Rimosso U.C.6.5, aggiunta sezione 4.9
-2.2 | 05/03/2025 | Eddy Pinarello | | Aggiornamento dei requisiti funzionali dopo negoziazione con l'azienda
+2.3 | 06/03/2025 | Gabriele Di Pietro | Tommaso Diviesti  | Rimosso U.C.6.5, aggiunta sezione 4.9
+2.2 | 05/03/2025 | Eddy Pinarello | Tommaso Diviesti | Aggiornamento dei requisiti funzionali dopo negoziazione con l'azienda
 2.1 | 28/02/2025 | Enrico Cotti Cottini | Gabriele Di Pietro | Aggiornamento requisiti funzionali e tracciamenti relativi, definito U.C.23, correzione stesura U.C.2.1
 2.0 | 19/02/2025 | Enrico Cotti Cottini | Gabriele Di Pietro | Approvazione documento
 1.7 | 18/02/2025 | Enrico Cotti Cottini | Eddy Pinarello | Aggiunti requisiti qualitativi e di vincolo per il Piano di Qualifica
