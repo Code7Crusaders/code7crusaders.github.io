@@ -33,6 +33,7 @@ Documenti per la milestone PB.
 
 <h3>Verbali Esterni</h3>
 <ul>
+    <li><a href="verbale_esterno/verbale_25-03-28.html" target="_blank">Verbale 25-03-28</a></li>
     <li><a href="verbale_esterno/verbale_25-03-13.html" target="_blank">Verbale 25-03-13</a></li>
     <li><a href="verbale_esterno/verbale_25-03-04.html" target="_blank">Verbale 25-03-04</a></li>
 </ul>

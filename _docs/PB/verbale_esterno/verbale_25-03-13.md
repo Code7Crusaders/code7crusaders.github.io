@@ -11,7 +11,7 @@ permalink: docs/PB/verbale_esterno/verbale_25-03-13.html
     Scarica PDF da GitHub
 </a>
 
-# Incontro del 04/03/2025 con Ergon
+# Incontro del 13/03/2025 con Ergon
 
 **Ver.** | **Data** | **Autore** | **Verificatore** | **Descrizione**
 ---|---|---|---|---
