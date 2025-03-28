@@ -17,7 +17,7 @@ permalink: docs/PB/documentazione_interna/norme_di_progetto.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 ---|--|--|-|-|
-1.1|10/03/2025| Matthew Pan| | Aggiunta sezione UML classi
+1.1|10/03/2025| Matthew Pan| Filippo Rizzolo | Aggiunta sezione UML classi
 1.0|10/02/2025|Matthew Pan|Francesco Lapenna|Correzioni e approvazione documento
 0.9|18/12/2024|Gabriele Di Pietro|Tommaso Diviesti|Stesura parte 6
 0.8|17/12/2024|Matthew Pan|Gabriele Di Pietro|Fine stesura sezione 3
