@@ -26,9 +26,9 @@ Se desideri metterti in contatto con noi, puoi inviarci un'email a uno degli ind
 | Filippo Rizzolo      | rizzolofilippo18@gmail.com            | [Filippo Rizzolo](https://github.com/Pipp0z)         |
 
 ---
-
-<img src="/assets/img/fotoTeam.jpeg" width="50%" height="auto" />
-
+<div align="center">
+<img src="/assets/img/fotoTeam.jpeg" width="70%" height="auto" />
+</div>
 Team Code7Crusaders:
 
 Da sinistra a destra: Francesco Lapenna, Tommaso Diviesti, Matthew Pan, Filippo Rizzolo, Gabriele Di Pietro, Eddy Pinarello, Enrico Cotti Cottini
