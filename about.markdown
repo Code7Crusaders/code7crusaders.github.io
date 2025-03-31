@@ -27,7 +27,7 @@ Se desideri metterti in contatto con noi, puoi inviarci un'email a uno degli ind
 
 ---
 
-<img src="img/fotoTeam.jpeg" width="50%" height="auto" />
+<img src="assets/img/fotoTeam.jpeg" width="50%" height="auto" />
 
 Team Code7Crusaders:
 
