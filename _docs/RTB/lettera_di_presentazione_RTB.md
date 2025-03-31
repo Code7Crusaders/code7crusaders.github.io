@@ -65,7 +65,7 @@ un ritardo dovuto ad alcune correzioni necessarie sulla documentazione per la re
 Il costo è stato calcolato stimando uno sprint aggiuntivo rispetto alla data preventivata (**14 marzo 2025**) nella lettera di presentazione della candidatura iniziale. Di conseguenza, la data stimata della consegna **PB** è il **21 marzo 2025**.
 Pertanto, il costo complessivo è stato ottenuto sommando alla cifra iniziale di **12.805 euro** il costo medio di uno sprint, pari a **702 euro**. Di seguito vengono riportati i nomi dei componenti del gruppo **Code7Crusaders**:
 
-<div align="center">
+
 
 **Nome** | **Matricola**
 ---|---
@@ -77,6 +77,6 @@ Pertanto, il costo complessivo è stato ottenuto sommando alla cifra iniziale di
 **Eddy Pinarello** | 2075535
 **Filippo Rizzolo** | 2042377
 
-</div>
+
 
 Nell'attesa di un cortese riscontro, porgiamo distinti saluti, **Code7Crusaders**
