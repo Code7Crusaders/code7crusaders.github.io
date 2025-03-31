@@ -31,28 +31,28 @@ proposto dall’azienda **Ergon Informatica**. La completa documentazione ineren
 
 Nello specifico è presente una release RTB all’interno della quale sono visibili i documenti sviluppati finora, tra cui:
 - **Documenti Esterni:**
- - `Analisi dei requisiti v2.0;`
- - `Piano di Progetto v1.0;`
- - `Piano di Qualifica v1.0;`
+  - `Analisi dei requisiti v2.0;`
+  - `Piano di Progetto v1.0;`
+  - `Piano di Qualifica v1.0;`
 - **Documenti Interni:**
- - `Norme di Progetto v1.0;`
- - `Glossario v1.0;`
+  - `Norme di Progetto v1.0;`
+  - `Glossario v1.0;`
 - **Verbali Esterni:**
- - `Verbale 24-11-14;`
- - `Verbale 24-12-12;`
- - `Verbale 25-01-27;`
+  - `Verbale 24-11-14;`
+  - `Verbale 24-12-12;`
+  - `Verbale 25-01-27;`
 - **Verbali Interni:**
- - `Verbale 24-11-04;`
- - `Verbale 24-11-15;`
- - `Verbale 24-11-22;`
- - `Verbale 24-11-29;`
- - `Verbale 24-12-07;`
- - `Verbale 24-12-13;`
- - `Verbale 24-12-19;`
- - `Verbale 25-01-18;`
- - `Verbale 25-01-24;`
- - `Verbale 25-02-04;`
- - `Verbale 25-02-07;`
+  - `Verbale 24-11-04;`
+  - `Verbale 24-11-15;`
+  - `Verbale 24-11-22;`
+  - `Verbale 24-11-29;`
+  - `Verbale 24-12-07;`
+  - `Verbale 24-12-13;`
+  - `Verbale 24-12-19;`
+  - `Verbale 25-01-18;`
+  - `Verbale 25-01-24;`
+  - `Verbale 25-02-04;`
+  - `Verbale 25-02-07;`
 
 Di seguito viene fornito il link al repository GitHub del gruppo contenente il **Proof of Concept** del progetto:
 
@@ -66,6 +66,7 @@ Il costo è stato calcolato stimando uno sprint aggiuntivo rispetto alla data pr
 Pertanto, il costo complessivo è stato ottenuto sommando alla cifra iniziale di **12.805 euro** il costo medio di uno sprint, pari a **702 euro**. Di seguito vengono riportati i nomi dei componenti del gruppo **Code7Crusaders**:
 
 
+<div align="center">
 
 **Nome** | **Matricola**
 ---|---
@@ -77,6 +78,7 @@ Pertanto, il costo complessivo è stato ottenuto sommando alla cifra iniziale di
 **Eddy Pinarello** | 2075535
 **Filippo Rizzolo** | 2042377
 
+</div>
 
 
 Nell'attesa di un cortese riscontro, porgiamo distinti saluti, **Code7Crusaders**
