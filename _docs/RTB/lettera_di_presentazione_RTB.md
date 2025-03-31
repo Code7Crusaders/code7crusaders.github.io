@@ -66,8 +66,6 @@ Il costo è stato calcolato stimando uno sprint aggiuntivo rispetto alla data pr
 Pertanto, il costo complessivo è stato ottenuto sommando alla cifra iniziale di **12.805 euro** il costo medio di uno sprint, pari a **702 euro**. Di seguito vengono riportati i nomi dei componenti del gruppo **Code7Crusaders**:
 
 
-<div align="center">
-
 **Nome** | **Matricola**
 ---|---
 **Enrico Cotti Cottini** | 2077993
@@ -77,8 +75,6 @@ Pertanto, il costo complessivo è stato ottenuto sommando alla cifra iniziale di
 **Matthew Pan** | 2057869
 **Eddy Pinarello** | 2075535
 **Filippo Rizzolo** | 2042377
-
-</div>
 
 
 Nell'attesa di un cortese riscontro, porgiamo distinti saluti, **Code7Crusaders**
