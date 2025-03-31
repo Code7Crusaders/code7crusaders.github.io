@@ -25,6 +25,13 @@ Se desideri metterti in contatto con noi, puoi inviarci un'email a uno degli ind
 | Eddy Pinarello       | eddypinarello2003@gmail.com               | [Eddy Pinarello](https://github.com/EddyPinarello)           |
 | Filippo Rizzolo      | rizzolofilippo18@gmail.com            | [Filippo Rizzolo](https://github.com/Pipp0z)         |
 
+---
+
+<img src="img/fotoTeam.jpeg" width="50%" height="auto" />
+
+Team Code7Crusaders:
+
+Da sinistra a destra: Francesco Lapenna, Tommaso Diviesti, Matthew Pan, Filippo Rizzolo, Gabriele Di Pietro, Eddy Pinarello, Enrico Cotti Cottini
 
 Puoi trovare il codice sorgente per il tema Minimal su GitHub:
 [minimal](https://github.com/pages-themes/minimal)
