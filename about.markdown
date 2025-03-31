@@ -29,9 +29,7 @@ Se desideri metterti in contatto con noi, puoi inviarci un'email a uno degli ind
 <div align="center">
 <img src="/assets/img/fotoTeam.jpeg" width="70%" height="auto" alt="Membri del team" />
 </div>
-Team Code7Crusaders:
-
-Da sinistra a destra: Francesco Lapenna, Tommaso Diviesti, Matthew Pan, Filippo Rizzolo, Gabriele Di Pietro, Eddy Pinarello, Enrico Cotti Cottini
+Da sinistra a destra: Francesco Lapenna; Tommaso Diviesti; Matthew Pan; Filippo Rizzolo; Gabriele Di Pietro; Eddy Pinarello; Enrico Cotti Cottini.
 
 Puoi trovare il codice sorgente per il tema Minimal su GitHub:
 [minimal](https://github.com/pages-themes/minimal)
