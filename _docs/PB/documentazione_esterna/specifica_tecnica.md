@@ -17,9 +17,11 @@ permalink: docs/PB/documentazione_esterna/specifica_tecnica.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---
+1.0 | 01/04/2025 | Gabriele Di Pietro | Eddy Pinarello | Approvazione Documento
+0.7 | 31/03/2025 | Gabriele Di Pietro | Eddy Pinarello | Aggiornato stato dei Requisiti e aggiunti grafici
 0.5 | 26/03/2025 | Matthew Pan | Francesco Lapenna | Continuo Stesura sezione Architettura
 0.4 | 18/03/2025 | Matthew Pan | Francesco Lapenna | Stesura sezione 3.2 e 3.3
-0.3 | 12/03/2025 | Francesco Lapenna | | Prima stesura sezione 3.1
+0.3 | 12/03/2025 | Francesco Lapenna | Matthew Pan | Prima stesura sezione 3.1
 0.2 | 05/03/2025 | Eddy Pinarello | Francesco Lapenna | Stesura sezioni 2 e 4
 0.1 | 01/03/2025 | Eddy Pinarello | Francesco Lapenna | Prima stesura del documento
 

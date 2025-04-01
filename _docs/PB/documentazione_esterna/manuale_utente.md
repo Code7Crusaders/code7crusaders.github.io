@@ -17,7 +17,9 @@ permalink: docs/PB/documentazione_esterna/manuale_utente.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---
-0.1 | 01/03/2025 | Eddy Pinarello | | Prima stesura del documento
+0.3 | 01/04/2025 | Gabriele Di Pietro | | Stesura del documento, componenti della webapp
+0.2 | 29/03/2025 | Filippo Rizzolo | Gabriele Di Pietro | Stesura sezione 2 e 3 e correzione riferimenti
+0.1 | 01/03/2025 | Eddy Pinarello | Filippo Rizzolo | Prima stesura del documento
 
 ---
 
