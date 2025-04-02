@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manuale Utente
+title: Specifica Tecnica
 permalink: docs/PB/documentazione_esterna/specifica_tecnica.html
 ---
 
