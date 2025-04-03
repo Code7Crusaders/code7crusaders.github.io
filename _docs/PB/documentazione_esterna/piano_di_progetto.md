@@ -17,6 +17,7 @@ permalink: docs/PB/documentazione_esterna/piano_di_progetto.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---
+1.4 | 14/03/2025 | Lapenna Francesco | | Compilazione Sprint
 1.3 | 14/03/2025 | Diviesti Tommaso | Filippo Rizzolo | Aggiunta dei grafici di preventivo e consuntivo agli Sprint
 1.2 | 13/03/2025 | Diviesti Tommaso | Filippo Rizzolo | Completamento analisi dei rischi: attualizzazione di riscontro rispetto alla loro occorrenza effettiva per i vari Sprint
 1.1 | 10/03/2025 | Diviesti Tommaso | Filippo Rizzolo | Inizio correzioni segnalate post RTB: sezione "Retrospettiva di periodo (RTB)"
