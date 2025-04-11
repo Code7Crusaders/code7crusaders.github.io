@@ -8,6 +8,11 @@ permalink: docs/RTB/index.html
 
 Documenti per la milestone RTB.
 
+<h1>Lettera di Presentazione</h1>
+<ul>
+    <li><a href="lettera_di_presentazione_RTB.html" target="_blank">Lettera di Presentazione</a></li>
+</ul>
+
 <h2>Documentazione Interna</h2>
 <ul>
     <li><a href="documentazione_interna/glossario.html" target="_blank">Glossario</a></li>
@@ -41,11 +46,6 @@ Documenti per la milestone RTB.
     <li><a href="verbali_esterni/verbale_25-01-27_v1.0.html" target="_blank">Verbale 25-01-27</a></li>
     <li><a href="verbali_esterni/verbale_24-12-12_v1.0.html" target="_blank">Verbale 24-12-12</a></li>
     <li><a href="verbali_esterni/verbale_24-11-14_v1.0.html" target="_blank">Verbale 24-11-14</a></li>
-</ul>
-
-<h3>Lettera di Presentazione</h3>
-<ul>
-    <li><a href="lettera_di_presentazione_RTB.html" target="_blank">Lettera di Presentazione</a></li>
 </ul>
 
 <h4>Colloqui RTB</h4>

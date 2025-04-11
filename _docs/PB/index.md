@@ -8,6 +8,11 @@ permalink: docs/PB/index.html
 
 Documenti per la milestone PB.
 
+<h1>Lettera di Presentazione</h1>
+<ul>
+    <li><a href="#">Lettera di Presentazione</a>(WIP)</li>
+</ul>
+
 <h2>Documentazione Interna</h2>
 <ul>
     <li><a href="documentazione_interna/glossario.html" target="_blank">Glossario</a></li>
@@ -38,8 +43,4 @@ Documenti per la milestone PB.
     <li><a href="verbale_esterno/verbale_25-03-04.html" target="_blank">Verbale 25-03-04</a></li>
 </ul>
 
-<h3>Lettera di Presentazione</h3>
-<ul>
-    <li><a href="#">Lettera di Presentazione</a>(WIP)</li>
-</ul>
 
