@@ -67,7 +67,7 @@ Nella seguente tabella sono riportate le ore produttive totali per ciascun membr
 **Filippo Rizzolo** | 95
 **Totale** | **665**
 
-Di seguito vengono riportati i nomi dei componenti del gruppo
+Di seguito vengono riportati i nomi dei componenti del gruppo **Code7Crusaders**:
 
 **Nome** | **Matricola**
 ---|---
