@@ -6,7 +6,7 @@ permalink: docs/PB/documentazione_interna/glossario.html
 
 <h2>Download</h2>
 
-<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/3_PB/documentazione_interna/glossario/glossario_v1.0.pdf" class="github-button" download>
+<a href="https://raw.githubusercontent.com/code7crusaders/docs/develop/pdf/3_PB/documentazione_interna/glossario/glossario_v2.0.pdf" class="github-button" download>
     <span class="github-icon">🐙</span> 
     Scarica PDF da GitHub
 </a>
@@ -15,13 +15,16 @@ permalink: docs/PB/documentazione_interna/glossario.html
 
 <h2>Versioni</h2>
 
-**Ver** | **Data** | **Redattore** | **Verificatore** | **descrizione**
----|--|--|-|-|
-1.1|01/03/2025| Eddy Pinarello| Gabriele Di Pietro | Aggiunta nuovi Termini
-1.0|04/02/2025|Eddy Pinarello| Enrico Cotti Cottini | Approvazione documento
-0.3|21/01/2025|Eddy Pinarello| Gabriele Di Pietro| Aggiunta di nuovi termini
-0.2|18/11/2024|Enrico Cotti Cottini| Gabriele Di Pietro| Aggiunta di nuovi termini
-0.1|05/11/2024|Gabriele Di Pietro| Filippo Rizzolo| Prima stesura del documento
+**Versioni**
+
+| **Ver** | **Data**     | **Redattore**          | **Verificatore**       | **Descrizione**                     |
+|---------|--------------|------------------------|------------------------|-------------------------------------|
+| 2.0     | 06/04/2025   | Enrico Cotti Cottini  | Filippo Rizzolo        | Approvazione finale del documento  |
+| 1.1     | 01/03/2025   | Eddy Pinarello        | Gabriele Di Pietro     | Aggiunta nuovi termini             |
+| 1.0     | 04/02/2025   | Eddy Pinarello        | Enrico Cotti Cottini   | Approvazione documento             |
+| 0.3     | 21/01/2025   | Eddy Pinarello        | Gabriele Di Pietro     | Aggiunta di nuovi termini          |
+| 0.2     | 18/11/2024   | Enrico Cotti Cottini  | Gabriele Di Pietro     | Aggiunta di nuovi termini          |
+| 0.1     | 05/11/2024   | Gabriele Di Pietro    | Filippo Rizzolo        | Prima stesura del documento        |
 
 ---
 
