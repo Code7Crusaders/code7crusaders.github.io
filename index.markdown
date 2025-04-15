@@ -31,6 +31,7 @@ title: Home Page
 
 <h2>Diari di Bordo</h2>
 <ul>
+    <li><a href="docs/diari_di_bordo/diario_25-04-15.html" target="_blank">Diario_25-04-15</a></li>
     <li><a href="docs/diari_di_bordo/diario_25-04-07.html" target="_blank">Diario_25-04-07</a></li>
     <li><a href="docs/diari_di_bordo/diario_25-03-31.html" target="_blank">Diario_25-03-31</a></li>
     <li><a href="docs/diari_di_bordo/diario_25-03-25.html" target="_blank">Diario_25-03-25</a></li>
