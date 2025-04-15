@@ -10,7 +10,7 @@ Documenti per la milestone PB.
 
 <h1>Lettera di Presentazione</h1>
 <ul>
-    <li><a href="#">Lettera di Presentazione</a>(WIP)</li>
+    <li><a href="lettera_di_presentazione.html">Lettera di Presentazione</a>(WIP)</li>
 </ul>
 
 <h2>Documentazione Interna</h2>
