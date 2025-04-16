@@ -16,6 +16,7 @@ permalink: docs/PB/documentazione_esterna/piano_di_qualifica.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---
+2.0 | 14/
 1.1 | 10/02/2025 | Francesco Lapenna | Gabriele Di Pietro| Correzione errori RTB, riscritta sezione 6
 1.0 | 10/02/2025 | Gabriele Di Pietro | Filippo Rizzolo | Approvazione documento
 0.5 | 06/02/2025 | Gabriele Di Pietro | Matthew Pan | Stesura sezione 3.2
