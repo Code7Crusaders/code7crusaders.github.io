@@ -17,6 +17,7 @@ permalink: docs/PB/documentazione_esterna/manuale_utente.html
 
 **Ver** | **Data** | **Redattore** | **Verificatore** | **Descrizione**
 --- | --- | --- | --- | ---
+1.0 | 15/04/2025 | Tommaso Diviesti | Gabriele Di Pietro | Approvazione del documento
 0.4 | 03/04/2025 | Gabriele Di Pietro | Filippo Rizzolo | Aggiunte pagine riservate all'admin
 0.3 | 01/04/2025 | Gabriele Di Pietro | Filippo Rizzolo | Stesura del documento, componenti della webapp
 0.2 | 29/03/2025 | Filippo Rizzolo | Gabriele Di Pietro | Stesura sezione 2 e 3 e correzione riferimenti
