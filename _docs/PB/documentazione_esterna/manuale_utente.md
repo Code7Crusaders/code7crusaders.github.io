@@ -24,4 +24,7 @@ permalink: docs/PB/documentazione_esterna/manuale_utente.html
 0.1 | 01/03/2025 | Eddy Pinarello | Filippo Rizzolo | Prima stesura del documento
 
 ---
+Preview dell'MVP
+[![Guarda il video](https://img.youtube.com/vi/Dq2FcwWGRtU/maxresdefault.jpg)](https://youtu.be/Dq2FcwWGRtU)
+
 
