@@ -44,4 +44,9 @@ Documenti per la milestone PB.
     <li><a href="verbale_esterno/verbale_25-03-04.html" target="_blank">Verbale 25-03-04</a></li>
 </ul>
 
-
+<h4>Colloqui PB</h4>
+<ul>
+    <li><a href="presentazionePB/presentazione_azienda.html" target="_blank">Presentazione Azienda</a></li>
+    <li><a href="presentazioneRTB/presentazione_cardin.html" target="_blank">Presentazione Colloquio prof. Cardin</a></li>
+    <li><a href="presentazioneRTB/presentazione_tullio.html" target="_blank">Presentazione Colloquio prof. Vardanega</a></li>
+</ul>
