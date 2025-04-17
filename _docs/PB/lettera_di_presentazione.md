@@ -26,7 +26,7 @@ proposto dall’azienda **Ergon Informatica**. La completa documentazione ineren
  https://code7crusaders.github.io 
 </div>
 
-Nello specifico è presente una release RTB all’interno della quale sono visibili i documenti sviluppati finora, tra cui:
+Nello specifico è presente una release PB all’interno della quale sono visibili i documenti sviluppati finora, tra cui:
 - **Documenti Esterni:**
   - `Analisi dei requisiti 3.0;`
   - `Piano di Progetto v2.0;`
